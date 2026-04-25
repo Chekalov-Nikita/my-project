@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Starting app on $PORT in $ENV mode"
+source config.txt
+echo "Starting app in $PORT in $ENV mode"
