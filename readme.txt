@@ -1,1 +1,4 @@
+HEAD
 MAIN VERSION
+FEATURE VERSION
+feature/conflict
